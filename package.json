@@ -1,15 +1,15 @@
 {
-  "name": "jvlcart",
+  "name": "ezcart",
   "version": "1.0.0",
-  "description": "ecommerce using MERN stack",
-  "main": "server.js",
+  "description": "ecommerce website using MERN stack",
+  "main": "backend/server.js",
   "scripts": {
-    "start": "nodemon backend/server.js",
-    "dev": "set NODE_ENV=development&&nodemon backend/server.js",
-    "prod": "set NODE_ENV=production&&nodemon backend/server.js",
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "prod": "NODE_ENV=production node backend/server.js",
     "seeder": "node backend/utils/seeder.js"
   },
-  "author": "JV Logesh",
+  "author": "Hari Priya",
   "license": "ISC",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
