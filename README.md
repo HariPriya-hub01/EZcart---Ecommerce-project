@@ -61,7 +61,7 @@ EZCart is a modern, full-stack e-commerce web application built with the **MERN 
 4. **Checkout**:
    - Review your cart.
    - Proceed to payment using Stripe.
-   - For card details: use card number `4242 4242 4242 4242` and any future date for expiry and any 3 digit random number (demo purposes)
+   - For card details: use card number `4242 4242 4242 4242` and any future date for expiry and any 3 digit random number for cvv (demo purposes)
 5. **Admin Features**:
    - Admin can add/edit/delete products.
    - View all users, orders and manage them.
