@@ -2,6 +2,8 @@
 
 EZCart is a modern, full-stack e-commerce web application built with the **MERN stack** (MongoDB, Express.js, React, Node.js). It provides a seamless shopping experience with features like product browsing, cart management, user authentication and Stripe-powered payments.
 
+[ Click here for live demo 👈 ](https://ezcart-frontend.vercel.app/)
+
 ---
 
 
