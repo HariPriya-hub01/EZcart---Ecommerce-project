@@ -17,12 +17,6 @@ EZCart is a modern, full-stack e-commerce web application built with the **MERN 
 ![ezcart2](https://github.com/user-attachments/assets/d4927dc0-c0a3-4732-9c68-93a47c8daef2)
 
 
-### Cart & Checkout
-
-![ezcart5](https://github.com/user-attachments/assets/46a96dc0-a978-4d8f-b64b-f94092ba06dd)
-
-&#x20;
-
 ### Login page
 ![ezcart3](https://github.com/user-attachments/assets/ab0b7e03-c740-43bf-9968-b85f792f7359)
 
@@ -31,8 +25,19 @@ EZCart is a modern, full-stack e-commerce web application built with the **MERN 
 ![ezcart4](https://github.com/user-attachments/assets/f2033d57-9c30-47ba-8f3f-6008108b7a9b)
 
 
+
+### Cart & Checkout
+![ezcart5](https://github.com/user-attachments/assets/46a96dc0-a978-4d8f-b64b-f94092ba06dd)
+
+
+
+### Cart & Checkout
+![ezcart6](https://github.com/user-attachments/assets/4a1cda8a-ecbb-4aa9-90bf-e0fc544b6dbd)
+
+
+
 ### Order details
-![ezcart6](https://github.com/user-attachments/assets/5ad2a6c0-e6ea-4b32-b87d-92e14b67bf6a)
+![ezcart7](https://github.com/user-attachments/assets/5ad2a6c0-e6ea-4b32-b87d-92e14b67bf6a)
 
 ---
 
