@@ -33,7 +33,7 @@ EZCart is a modern, full-stack e-commerce web application built with the **MERN 
 
 
 
-### Cart & Checkout
+### Payment page
 ![ezcart6](https://github.com/user-attachments/assets/4a1cda8a-ecbb-4aa9-90bf-e0fc544b6dbd)
 
 
